@@ -19,12 +19,14 @@ a{
 #navbar .nav-link:hover{
     color: #ea1c2c;
 }
-#h1 span{
+#h1 span, 
+.museum-header, 
+.museum-text{
     color: #ea1c2c;
 }
 #h1 h1{
     font-weight: 100;
-    font-size: 4rem;
+    font-size: 3.5rem;
 }
 .navbar.scrolled{
 background-color: rgb(222 192 222);
