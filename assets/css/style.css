@@ -20,9 +20,14 @@ a{
     color: #ea1c2c;
 }
 #h1 span, 
-.museum-header, 
-.museum-text{
+.museum-header{
     color: #ea1c2c;
+}
+.museum-text{
+    color: #f498b4;
+    font-weight: 100;
+    font-size: 1.12rem;
+    line-height: 2;
 }
 #h1 h1{
     font-weight: 100;
